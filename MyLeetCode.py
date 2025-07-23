@@ -10,7 +10,7 @@ class Solution(object):
         return total
 
 
-# example :
+# example 1:
 
 l1 = [2,4,3]
 l2 = [5,6,4]
@@ -28,6 +28,8 @@ l2 = [5,6,4]
 
 # l1 = [9,9,9,9,9,9,9]
 # l2 = [9,9,9,9]
+
+# expected Output: [8,9,9,9,0,0,0,1]
 
 solution = Solution()
 
